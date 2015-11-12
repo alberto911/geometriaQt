@@ -105,7 +105,7 @@ Window::Window()
     setupShapes();
     shapeSelected(0);
 
-    setWindowTitle(tr("Transformations"));
+    setWindowTitle(tr("Transformaciones"));
 }
 
 void Window::setupShapes()
